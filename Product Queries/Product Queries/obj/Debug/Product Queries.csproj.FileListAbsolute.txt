@@ -1,0 +1,36 @@
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\c# week 11 homework\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\two\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\bin\Debug\ProductDB.mdf
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\bin\Debug\ProductDB_log.ldf
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\bin\Debug\Product Queries.exe.config
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\bin\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\bin\Debug\Product Queries.pdb
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product Queries.csprojAssemblyReference.cache
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product_Queries.Form1.resources
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product_Queries.Properties.Resources.resources
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.GenerateResource.cache
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product Queries.csproj.CoreCompileInputs.cache
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product Queries.exe
+C:\Users\Omar\Desktop\C# homeworks\Product Queries\Product Queries\obj\Debug\Product Queries.pdb
